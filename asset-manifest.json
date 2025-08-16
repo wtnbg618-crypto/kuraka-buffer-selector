@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuraka-buffer-selector/static/css/main.39bce8db.css",
+    "main.js": "/kuraka-buffer-selector/static/js/main.bd2c30b4.js",
+    "static/js/453.670e15c7.chunk.js": "/kuraka-buffer-selector/static/js/453.670e15c7.chunk.js",
+    "index.html": "/kuraka-buffer-selector/index.html",
+    "main.39bce8db.css.map": "/kuraka-buffer-selector/static/css/main.39bce8db.css.map",
+    "main.bd2c30b4.js.map": "/kuraka-buffer-selector/static/js/main.bd2c30b4.js.map",
+    "453.670e15c7.chunk.js.map": "/kuraka-buffer-selector/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39bce8db.css",
+    "static/js/main.bd2c30b4.js"
+  ]
+}
